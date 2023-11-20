@@ -85,3 +85,14 @@ False
 [line 1] Error at 'clear': Expect expression.
 >
 
+## Chapter 4
+> (2 + 3) * (4 - 1)
+15
+> (8 / 2) + (5 * 2)
+14
+> (15 / 3) + 2
+7
+> (4 * 6) / 2
+12
+> (10 - 7) * 2
+6
