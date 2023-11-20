@@ -55,3 +55,6 @@ VAR var
 IDENTIFIER str
 EQUAL =
 EOF
+
+## Chapter 2
+Chapter 2 completed, tests from book ran successfully
