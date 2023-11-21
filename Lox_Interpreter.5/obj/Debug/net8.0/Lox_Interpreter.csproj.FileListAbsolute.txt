@@ -1,0 +1,14 @@
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\Lox_Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\Lox_Interpreter.AssemblyInfoInputs.cache
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\Lox_Interpreter.AssemblyInfo.cs
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\Lox_Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\wittk\source\repos\Lox_Interpreter\bin\Debug\net8.0\Lox_Interpreter.exe
+C:\Users\wittk\source\repos\Lox_Interpreter\bin\Debug\net8.0\Lox_Interpreter.deps.json
+C:\Users\wittk\source\repos\Lox_Interpreter\bin\Debug\net8.0\Lox_Interpreter.runtimeconfig.json
+C:\Users\wittk\source\repos\Lox_Interpreter\bin\Debug\net8.0\Lox_Interpreter.dll
+C:\Users\wittk\source\repos\Lox_Interpreter\bin\Debug\net8.0\Lox_Interpreter.pdb
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\Lox_Interpreter.dll
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\refint\Lox_Interpreter.dll
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\Lox_Interpreter.pdb
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\Lox_Interpreter.genruntimeconfig.cache
+C:\Users\wittk\source\repos\Lox_Interpreter\obj\Debug\net8.0\ref\Lox_Interpreter.dll
