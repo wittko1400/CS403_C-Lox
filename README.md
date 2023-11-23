@@ -170,4 +170,36 @@ Operands must be two numbers or two strings.
 0
 > print yes or no;
 1
+
+## Chapter 10
+> "totally not a function"();
+Can only call functions and classes.
+[line 1]
+> fun add(a, b, c) {
+[line 1] Error at end: Expect '}' after block.
+>   print a + b + c;
+Undefined variable 'a'.
+[line 1]
+> fun makeCounter() {var i = 0; fun count() {i = i + 1; print i;} return count;}
+> var counter = makeCounter();
+> counter(); // "1".
+1
+> counter();
+2
+> counter();
+3
+>
+
+## Chapter 11
+> return "at top level";
+[line 1] Error: Can't return from top-level code.
+> var a = "outer";
+> {var a = a;}
+[line 1] Error: Can't read local variable in its own initializer.
+> var a = "global";
+> {fun showA() {print a;}
+[line 1] Error at end: Expect '}' after block.
+> {fun showA() {print a;} showA(); var a = "block"; showA();}
+global
+global
 >
