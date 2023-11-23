@@ -172,6 +172,7 @@ Operands must be two numbers or two strings.
 1
 
 ## Chapter 10
+Chapter 10 zip was not taken, but tests work as expected adn changes can be seen in chapter 11 zip
 > "totally not a function"();
 Can only call functions and classes.
 [line 1]
