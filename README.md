@@ -204,3 +204,30 @@ Undefined variable 'a'.
 global
 global
 >
+
+## Chapter 12 + 13
+> var b = B("value"); b.test();
+value
+> fun foo() {}
+> class Subclass < foo {}
+Superclass must be a class.
+[line 1]
+> var Nil = nil;
+> class Foo < Nil {} // expect runtime error: Superclass must be a class.
+Superclass must be a class.
+[line 1]
+> var Number = 123;
+> class Foo < Number {} // expect runtime error: Superclass must be a class.
+Superclass must be a class.
+[line 1]
+> class Foo { methodOnFoo() { print "foo"; } override() { print "foo"; } } class Bar < Foo { methodOnBar() { print "bar"; } override() { print "bar"; } } var bar = Bar(); bar.methodOnFoo(); // expect: foo bar.methodOnBar(); // expect: bar bar.override(); // expect: bar
+foo
+> class Foo { methodOnFoo() { print "foo"; } override() { print "foo"; } } class Bar < Foo { methodOnBar() { print "bar"; } override() { print "bar"; } } var bar = Bar(); bar.methodOnFoo();
+foo
+> bar.methodOnBar();
+bar
+> bar bar.override();
+[line 1] Error at 'bar': Expect ';' after expression.
+> bar.override();
+bar
+>
