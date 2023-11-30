@@ -13,6 +13,10 @@ Finally clone the Lox Interpreter repo into where you stored the repos folder of
 git clone https://github.com/wittko1400/CS403_C-Lox
 ```
 ## Usage
+Once inside Visual Studio open the solution file Lox_Interpreter, then build and clean
+
+Next Run the Lox_Interpreter.
+When run without an argument it operates as a <abbr title="read-eval-print loop">REPL</abbr> prompt which runs until it encounters an exit code. Otherwise, when given a Lox source file it will attempt to execute it and then exit.
 
 ## Testing
 Tests were taken from Robert Nystroms Tetsing repo to test his lox interpreter.
