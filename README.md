@@ -1,4 +1,5 @@
 # CS403_C-Lox
+This Lox interpreter is a C# implementation based on the book [*Crafting Interpreters* by Robert Nystrom](https://craftinginterpreters.com/). 
 
 ## Install/Build
 
