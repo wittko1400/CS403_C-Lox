@@ -8,7 +8,10 @@ It can be added to environment path variables by searching system environment va
 
 Next install an C# IDE such as [Visual Studio](https://visualstudio.microsoft.com/).
 
-
+Finally clone the Lox Interpreter repo into where you stored the repos folder of Visual Studio
+```
+git clone https://github.com/wittko1400/CS403_C-Lox
+```
 ## Usage
 
 ## Testing
