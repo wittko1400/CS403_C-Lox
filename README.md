@@ -1,6 +1,9 @@
 # CS403_C-Lox
 This Lox interpreter is a C# implementation based on the book [*Crafting Interpreters* by Robert Nystrom](https://craftinginterpreters.com/). 
 
+## Development
+Development snapshots after certain chapters are included in the repo to help show the design process and growth of the interpreter as I progressed. (I recommend not pulling them when downloading the github.)
+
 ## Install/Build
 Start with installing the [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download), then add it into your system enivronment path variables
 
