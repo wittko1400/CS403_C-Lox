@@ -3,9 +3,13 @@ This Lox interpreter is a C# implementation based on the book [*Crafting Interpr
 
 ## Install/Build
 Start with installing the .NET 8.0 SDK, then add it into your system enivronment path variables
-[.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download). 
+[.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download).
 
 It can be added to environment path variables by searching system environment variables in the search bar and then selecting Environment Path and editing the path.
+
+Next install an C# IDE such as Visual Studio
+[Visual Studio](https://visualstudio.microsoft.com/).
+
 
 ## Usage
 
