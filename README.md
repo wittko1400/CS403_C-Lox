@@ -28,3 +28,6 @@ Test output can be checked against the test file included in the repo to verify 
 
 [Test Output](testoutput.md)
 
+# ChatGPT
+For this assignment's preparation, the author(s) have utilized ChatGPT, a language model created by OpenAI. 
+Within this assignment, the ChatGPT was used for purposes such as brainstorming, grammatical correction, writing paraphrasing, and learning.
